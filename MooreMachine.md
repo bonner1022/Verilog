@@ -1,5 +1,5 @@
 # Moore Machine
-
+```
 module moore_sequ(
   input clk, reset, 
   input [1:0] ain,        
@@ -112,6 +112,4 @@ module moore_sequ(
     endcase
   end
 endmodule
-
-            
-            
+```
